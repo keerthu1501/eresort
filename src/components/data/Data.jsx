@@ -68,14 +68,14 @@ export const socialIcons = [
 
 export const carouselData = [
   {
-    img: "../assets/img/carousel-1.jpg",
+    img: "https://iili.io/dRqTsPR.md.jpg",
     title: "Discover A Brand Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
     btn2: "Book Room",
   },
   {
-    img: "../assets/img/carousel-2.jpg",
+    img: "https://iili.io/dRqTiMv.md.jpg",
     title: "Discover A Brand Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
@@ -136,22 +136,22 @@ export const services = [
 ];
 export const team = [
   {
-    image: "../assets/img/team-1.jpg",
+    image: "https://iili.io/dRquHoG.jpg",
     name: "Full Name",
     designation: "Designation",
   },
   {
-    image: "../assets/img/team-2.jpg",
+    image: "https://iili.io/dRquHoG.jpg",
     name: "Full Name",
     designation: "Designation",
   },
   {
-    image: "../assets/img/team-3.jpg",
+    image: "https://iili.io/dRquHoG.jpg",
     name: "Full Name",
     designation: "Designation",
   },
   {
-    image: "../assets/img/team-3.jpg",
+    image: "https://iili.io/dRquHoG.jpg",
     name: "Full Name",
     designation: "Designation",
   },
@@ -243,7 +243,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-1.jpg",
+    img: "https://iili.io/dRquHoG.jpg",
   },
   {
     description:
@@ -253,7 +253,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-2.jpg",
+    img: "https://iili.io/dRquHoG.jpg",
   },
   {
     description:
@@ -263,13 +263,13 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-3.jpg",
+    img: "https://iili.io/dRquHoG.jpg",
   },
 ];
 
 export const roomItems = [
   {
-    img: "../assets/img/room-1.jpg",
+    img: "https://iili.io/dRqTG87.md.jpg",
     price: "Rs.10350/night",
     name: "THE MAGESTIC CROWN",
     star: [
@@ -285,7 +285,7 @@ export const roomItems = [
   },
 
   {
-    img: "../assets/img/room-2.jpg",
+    img: "https://iili.io/dRqTG87.md.jpg",
     price: "Rs.5000/night",
     name: "THE POD",
     star: [
@@ -301,7 +301,7 @@ export const roomItems = [
     darkbtn: "book now",
   },
   {
-    img: "../assets/img/room-3.jpg",
+    img: "https://iili.io/dRqTG87.md.jpg",
     price: "Rs.4000/night",
     name: "THE FRAME",
     star: [
