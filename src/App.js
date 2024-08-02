@@ -1,7 +1,6 @@
 import React from "react";
 import "./css/style.css";
 import "./css/bootstrap.min.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
 import "./css/animate.css";
 import "./css/animate.min.css";
 import "./App.css";
@@ -29,7 +28,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/booking" element={<Booking />} />
-            <Route path="/team" element={<Team />} />
+            {/* <Route path="/team" element={<Team />} /> */}
             <Route path="/testimonial" element={<Testimonial />} />
             <Route path="/about" element={<AboutUs />} />
             <Route path="/contact" element={<Contact />} />
